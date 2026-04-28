@@ -5,7 +5,6 @@ from typing import Annotated
 
 from pydantic import BaseModel, Field
 
-
 # ---------- API I/O ----------
 
 class AnalyzeRequest(BaseModel):
